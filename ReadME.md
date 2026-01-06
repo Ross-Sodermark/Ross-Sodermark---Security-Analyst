@@ -1,4 +1,4 @@
-# Ross Sodermark | Security Analyst | Security Engineer | Cybersecurity Architect|
+# Ross Sodermark | Security Analyst | Security Engineer | Cybersecurity Architect | Threat Intelligence | Ethical Hacker
 Name: Ross Sodermark | Current Position: Security Analyst | Security Scripts and Queries | KQL (Microsoft), PowerShell (Microsoft), FQL (Crowdstrike Falcon), Python, Bash, JavaScript | Microsoft Entra ID and Microsoft Azure Expert | SOC Experience
 
 Expert Level Designations:
